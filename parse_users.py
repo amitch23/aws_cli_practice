@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import json
 import sys
 
 def get_list_of_users(users):
